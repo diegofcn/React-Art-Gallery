@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-Art-Gallery/static/css/main.9324dca3.css",
+    "main.js": "/React-Art-Gallery/static/js/main.557c6961.js",
+    "static/media/jr-korpa-zCuSa67rLEM-unsplash.jpg": "/React-Art-Gallery/static/media/jr-korpa-zCuSa67rLEM-unsplash.d28c932181ac516f274f.jpg",
+    "index.html": "/React-Art-Gallery/index.html",
+    "main.9324dca3.css.map": "/React-Art-Gallery/static/css/main.9324dca3.css.map",
+    "main.557c6961.js.map": "/React-Art-Gallery/static/js/main.557c6961.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9324dca3.css",
+    "static/js/main.557c6961.js"
+  ]
+}
